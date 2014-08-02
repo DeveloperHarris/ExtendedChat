@@ -1,0 +1,12 @@
+name: ExtendedChat
+version: 1.0.0
+main: com.gmail.codervortex.Main
+author: Vortex
+description: Allows users to extend their chatting abilities.
+commands:
+  lc:
+    description: Main command. Opens a gui where users can type as much as they want. This also allows commands.
+    usage: /lc
+  longchat:
+    description: Main command. Opens a gui where users can type as much as they want. This also allows commands.
+    usage: /longchat
