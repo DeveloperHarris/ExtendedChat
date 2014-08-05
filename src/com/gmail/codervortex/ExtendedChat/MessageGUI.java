@@ -1,4 +1,4 @@
-package com.gmail.codervortex;
+package com.gmail.codervortex.ExtendedChat;
 
 import java.util.ArrayList;
 import java.util.List;

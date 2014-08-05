@@ -1,4 +1,4 @@
-package com.gmail.codervortex;
+package com.gmail.codervortex.ExtendedChat;
 
 import java.io.IOException;
 
@@ -29,8 +29,8 @@ public class Main extends JavaPlugin implements Listener
 	
 	public void registerCommands()
 	{
-		getCommand("lc").setExecutor(new com.gmail.codervortex.LongChat(this));
-		getCommand("longchat").setExecutor(new com.gmail.codervortex.LongChat(this));
+		getCommand("lc").setExecutor(new com.gmail.codervortex.ExtendedChat.LongChat(this));
+		getCommand("longchat").setExecutor(new com.gmail.codervortex.ExtendedChat.LongChat(this));
 	}
 	
 	public void registerEvents()

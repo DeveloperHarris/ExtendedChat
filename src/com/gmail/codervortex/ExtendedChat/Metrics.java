@@ -1,4 +1,4 @@
-package com.gmail.codervortex;
+package com.gmail.codervortex.ExtendedChat;
 
 import org.bukkit.Bukkit;
 import org.bukkit.configuration.InvalidConfigurationException;

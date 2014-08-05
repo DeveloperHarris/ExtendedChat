@@ -1,6 +1,6 @@
 name: ExtendedChat
 version: 1.0.0
-main: com.gmail.codervortex.Main
+main: com.gmail.codervortex.ExtendedChat.Main
 author: Vortex
 description: Allows users to extend their chatting abilities.
 commands:

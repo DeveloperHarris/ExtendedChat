@@ -1,4 +1,4 @@
-package com.gmail.codervortex;
+package com.gmail.codervortex.ExtendedChat;
 
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
@@ -6,9 +6,9 @@ import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 
-import com.gmail.codervortex.MessageGUI.MessageCompleteEvent;
-import com.gmail.codervortex.MessageGUI.MessageHandler;
-import com.gmail.codervortex.MessageGUI.MessageReceivedEvent;
+import com.gmail.codervortex.ExtendedChat.MessageGUI.MessageCompleteEvent;
+import com.gmail.codervortex.ExtendedChat.MessageGUI.MessageHandler;
+import com.gmail.codervortex.ExtendedChat.MessageGUI.MessageReceivedEvent;
 
 public class LongChat implements CommandExecutor
 {

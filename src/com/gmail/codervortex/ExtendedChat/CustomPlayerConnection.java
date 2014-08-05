@@ -1,4 +1,4 @@
-package com.gmail.codervortex;
+package com.gmail.codervortex.ExtendedChat;
 
 import java.io.IOException;
 
@@ -11,7 +11,7 @@ import net.minecraft.util.io.netty.buffer.Unpooled;
 import org.bukkit.craftbukkit.v1_7_R4.entity.CraftPlayer;
 import org.bukkit.entity.Player;
 
-import com.gmail.codervortex.MessageGUI.MessageType;
+import com.gmail.codervortex.ExtendedChat.MessageGUI.MessageType;
 
 public class CustomPlayerConnection extends PlayerConnection
 {
