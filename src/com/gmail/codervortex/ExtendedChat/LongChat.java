@@ -49,6 +49,7 @@ public class LongChat implements CommandExecutor
 	    	    		    	    	
 	   	    	}
 	    	    else player.sendMessage(ChatColor.WHITE + "Unknown command. Type \"help\" for help.");
+	    	    return true;
 	        }	       
 	      }
 		return false;
